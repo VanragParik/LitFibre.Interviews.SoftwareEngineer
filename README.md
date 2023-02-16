@@ -1,4 +1,4 @@
-# Lit Fibre Software Engineer Exercise
+# Lit Fibre Software Engineer C# Exercise
 
 Please fork this repo and push your workings to your own fork.
 
@@ -18,7 +18,7 @@ Curl/Postman/Insomnia - the project includes the Swagger frontend so not strictl
 Implement the `IMemoryDatabase` interface for the `Order` model. As the interface name implies, this should be a simple in-memory DB, 3rd party libraries shouldn't be necessary here. We've provided some seed data in `orders.json` that you can use to initialize the DB.
 
 ### Task 2
-Implement a number of RESTful endpoints in the `LitFibre.Interviews.SoftwareEngineer.Controllers.OrderController` API controller. This should use your IMemoryDatabase implementation. The endpoints should be the following:
+Implement a number of RESTful endpoints in the `LitFibre.Interviews.SoftwareEngineer.Controllers.OrderController` API controller that interact with the order database. The endpoints should be the following:
 1. Read all orders.
 2. Read an order by ID.
 3. Add an order.
@@ -28,3 +28,8 @@ Implement a number of RESTful endpoints in the `LitFibre.Interviews.SoftwareEngi
 7. Read all orders that were placed after a specified date.
 
 You don't need to create a frontend to consume these endpoints, we will test them with Swagger/Postman.
+
+### If you finish early
+Feel free to expand on the API, database and models if you feel it will help demonstrate your knowledge of C#, data structures, web APIs, dependency injection, or whatever you'd like to show off. This is entirely optional.
+
+### GLHF!
