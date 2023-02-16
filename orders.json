@@ -1,0 +1,67 @@
+{
+  "orders": [
+    {
+      "id": "7f9874e277a5498890481b6e001fbc4f",
+      "orderDate": "2023-02-10T12:00:00Z",
+      "basePrice": 30.0,
+      "discount": 0.0,
+      "totalPrice": 30.0,
+      "productCodes": [
+        "M5-Bolt",
+        "M5-Nut",
+        "M5-Washer"
+      ]
+    },
+    {
+      "id": "5603345a836e48eab86b039dcd401078",
+      "orderDate": "2023-02-10T18:34:00Z",
+      "basePrice": 125.5,
+      "discount": 25.1,
+      "totalPrice": 100.4,
+      "productCodes": [
+        "LiIon-Powerpack",
+        "LiIon-Charger"
+      ]
+    },
+    {
+      "id": "03d1b7a1283048b5a8186617485850ae",
+      "orderDate": "2023-01-28T09:20:00Z",
+      "basePrice": 220.0,
+      "discount": 22.0,
+      "totalPrice": 198.0,
+      "productCodes": [
+        "JigSaw",
+        "JigSaw-Blade-10tpi",
+        "JigSaw-Blade-20tpi"
+      ]
+    },
+    {
+      "id": "34ce2874e8664cd093d1a877b04f22bb",
+      "orderDate": "2023-01-16T18:15:00Z",
+      "basePrice": 85.0,
+      "discount": 0.0,
+      "totalPrice": 85.0,
+      "productCodes": [
+        "Ferrules-Mixed",
+        "Crimp-Terminals-2x2",
+        "Wire-Stripper",
+        "Multimeter",
+        "Crimper"
+      ]
+    },
+    {
+      "id": "4f0e071269b241298460013fa4a6cd6a",
+      "orderDate": "2023-01-31T14:45:00Z",
+      "basePrice": 60.0,
+      "discount": 3.0,
+      "totalPrice": 57.0,
+      "productCodes": [
+        "Spirit-Level",
+        "Tape-Measure-10M",
+        "Nail-40mm",
+        "Nail-20mm",
+        "Hammer"
+      ]
+    }
+  ]
+}
