@@ -7,7 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Abp" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LitFibre.Interviews.SoftwareEngineer.Services\LitFibre.Interviews.SoftwareEngineer.Services.csproj" />
+  </ItemGroup>
+	
 
 </Project>
